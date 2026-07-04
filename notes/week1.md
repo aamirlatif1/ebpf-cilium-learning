@@ -1,6 +1,7 @@
-# eBPF
+# Cilium
 
-[07/03/2026] Cilium Up and Running Ch. 1-3
+[07/03/2026] 
+### Cilium Up and Running Ch. 1-3
 
 - Why Cilium?
 - Inside Cilium
@@ -8,11 +9,15 @@
 - IP Address Management
 - The Cilium Datapath
 
-[07/04/2026] Cilium Up and Running Ch. 4-9
+[07/04/2026]
+### Cilium Up and Running Ch. 4-5
 
 - IP Address Management
 - The Cilium Datapath
-- Service Networking
-- Ingress and Gateway API
-- Performance Networking and Traffic Optimization
-- Multicluster Networking
+
+
+### Networking & Kubernetes ch. 2-3
+
+- Linux Netokring
+- Container Networking Basics
+
