@@ -18,15 +18,13 @@
 
 - Linux Netokring
 
-[07/05/2026]
-
-### Networking & Kubernetes ch. 3
-
-- Container Networking Basics
+[07/06/2026]
 
 ### Cilium Up and Running Ch. 6-9
 
 - Service Networking
 - Ingress and Gateway API
+
+
 - Performance Networking and Traffic Optimization
 - Multicluster Networking
