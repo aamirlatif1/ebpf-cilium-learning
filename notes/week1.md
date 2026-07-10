@@ -19,12 +19,12 @@
 - Linux Netokring
 
 [07/06/2026]
-
-### Cilium Up and Running Ch. 6-9
+### Cilium Up and Running Ch. 6-7
 
 - Service Networking
 - Ingress and Gateway API
 
+[07/09/2026]
+### Cilium Up and Running Ch. 8-10
 
 - Performance Networking and Traffic Optimization
-- Multicluster Networking

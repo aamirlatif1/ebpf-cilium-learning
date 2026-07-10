@@ -1,0 +1,5 @@
+kubeProxyReplacement: true
+localRedirectPolicies:
+  enabled: true
+k8sServiceHost: kind-control-plane
+k8sServicePort: 6443
