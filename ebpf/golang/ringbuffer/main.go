@@ -18,7 +18,7 @@ import (
 	"github.com/cilium/ebpf/rlimit"
 )
 
-//go:generate go tool bpf2go -tags linux bpf ringbuffer.c -- -I../headers
+//go:generate go tool bpf2go -tags linux bpf ringbuffer.c -- -I/usr/include/aarch64-linux-gnu
 
 func main() {
 	// Name of the kernel function to trace.
